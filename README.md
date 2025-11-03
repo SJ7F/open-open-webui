@@ -1,4 +1,4 @@
-# Open Open Open WebUI 👋
+# Open Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/SJ7F/open-open-webui?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/SJ7F/open-open-webui?style=social)
